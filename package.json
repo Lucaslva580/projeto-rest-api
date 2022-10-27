@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "server": "node src/servidor.js"
+  },
+  "dependencies": {
+    "body-parser": "1.12.2",
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  }
+}
